@@ -8,12 +8,7 @@
 ## Getting started
 
 1. Git clone...
-2. Install poetry locally if not already installed
-
-```
-curl -sSL https://install.python-poetry.org | python3 -
-```
-
+2. [Install poetry locally](https://python-poetry.org/docs/#installing-with-the-official-installer) if not already installed
 3. Activate virtual environment
 4. Install pre-commit
 
